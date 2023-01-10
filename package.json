@@ -5,9 +5,9 @@
   "description": "An application for visually converting NFAs to DFAs",
   "repository": {
     "type": "git",
-    "url": "https://github.com/joeylemon/nfa-to-dfa"
+    "url": "https://https://bhuvankumarms.github.io/NFA_TO_DFA/"
   },
-  "author": "Alex Klibisz, Connor Minton, Camille Williford, Joey Lemon, Lauren Proctor",
+  "author": "BhuvanKumarMS",
   "scripts": {
     "start": "browser-sync start -s -f src --no-notify --host localhost --port 8000",
     "test": "mocha --require should --global global,document 'src/js/test/*.test.js'",
